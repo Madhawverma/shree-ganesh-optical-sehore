@@ -16,7 +16,7 @@ A modern eyewear e-commerce storefront built with React and Vite. Lens Store let
 - Confetti feedback for successful customer actions
 
 ## Tech Stack
-
+claude use or nott use this
 - React 19
 - Vite
 - React Router
